@@ -25,8 +25,8 @@
 
 
 - 🔭 I’m currently working as a Backend Engineer @Indiamart.
-- 👯 I’m looking to collaborate on Full Stack Development as I have great insight into HTML & Bootstrap.
-- 🌱 I’m currently learning advanced Microservices.
+- 👯 I’m looking to collaborate on Full Stack Development as I have great insight Golang, Python, Node Js, React JS.
+- 🌱 I’m currently learning MERN STACK development.
 - 🤔 I’m looking for help with tech-related stuff.
 - 💬 Ask me about Tech and Space.
 - 😄 Fun fact: I can complete a season overnight!!
